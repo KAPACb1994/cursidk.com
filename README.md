@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang-"en">
+
+
 <head>   
     <title>Cursidk Lair</title>
 
@@ -8,7 +8,7 @@
 <html>
 
   <title>Вики по лору игры</title>
-</head>
+
 <body>
   <h1>Wiki Cursidk Lair</h1>
 
