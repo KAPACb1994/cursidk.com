@@ -1,7 +1,7 @@
 <head>   
     <title>Cursidk Lair</title>
 
-    <body background="i (19).png"></body>
+ <body background="i (19).png"></body>
     
 <html>
 
@@ -16,44 +16,44 @@
     <div style="border: 1px solid rgb(17, 0, 255); padding: 10px; background-color: #1f1f1f; box-shadow: 0px 0px 10px #42418f;">
     <table>
     
-      <caption style="text-align: center;color: white;font-size: 37px;">курсидия</caption>
+ <caption style="text-align: center;color: white;font-size: 37px;">курсидия</caption>
     <thead>
     
     
-    <tr>
-        <th></th>
-        <th style="text-align: center;color: rgb(255, 255, 255);"><img src="823_20231120143543.png" width="450" height="425"></th>
-        <th></th>
-      </tr>
-      
-    </thead>
-    <tbody>
-      <tr>
-        <td>  </td>
-        <td style="text-align: center;color: white;"> Автор:дуся </td>
-        
-      </tr>
-      <tr>
-        <td></td>
-        <td style="text-align: center;color: white;"><b>Статистика:</b></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td style="text-align: center;color: white;">(В разработке)</td>
-        <td></td>
-      </tr>
-      <tr>
-        <td></td>
-        <td style="text-align: center;color: white;"><b>LEVEL:</b></td>
-        <td></td>
-      </tr>
-      
-        <tr>
-        <td></td>
-        <td style="text-align: center;color: white;">HP:775 MP:9750 AP:770 BP:100</td>
-        <td></td>
-      </tr>
+ <tr>
+   <th></th>
+ <th style="text-align: center;color: rgb(255, 255, 255);"><img src="823_20231120143543.png" width="450" height="425"></th>
+  <th></th>
+  </tr>
+  
+ </thead>
+<tbody>
+ <tr>
+  <td>  </td>
+ <td style="text-align: center;color: white;"> Автор:дуся </td>
+
+ </tr>
+ <tr>
+ <td></td>
+ <td style="text-align: center;color: white;"><b>Статистика:</b></td>
+   <td></td>
+   </tr>
+ <tr>
+  <td></td>
+ <td style="text-align: center;color: white;">(В разработке)</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td></td>
+  <td style="text-align: center;color: white;"><b>LEVEL:</b></td>
+ <td></td>
+ </tr>
+  
+<tr>
+ <td></td>
+ <td style="text-align: center;color: white;">HP:775 MP:9750 AP:770 BP:100</td>
+<td></td>
+    </tr>
   </div>
       <tr>
         <td></td>
