@@ -21,7 +21,7 @@
     <thead>
  <tr>
         <th></th>
-        <th style="text-align: center;color: rgb(255, 255, 255);"><img src="823_20231120143543.png" width="450" height="425"></th>
+        <th><img src="823_20231120143543.png" width="450" height="425"></th>
         <th></th>
       </tr>
       
