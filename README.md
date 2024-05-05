@@ -1,0 +1,2 @@
+# cursidk.com
+cursidk
