@@ -20,7 +20,7 @@
  <tr>
         <th style="background-color: #1f1f1f;"></th>
         <th style="text-align: center;color: white;background-color: #1f1f1f;"><img src="823_20231120143543.png" width="450" height="425"></th>
-        <th style="background-color: #1f1f1f;"></th>
+        
       </tr>
       
  </thead>
@@ -33,35 +33,35 @@
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="text-align: center;background-color: #1f1f1f;color: white;"><b>Статистика:</b></td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+        
+ </tr>
       <tr>
   <td style="background-color: #1f1f1f;"></td>
  <td style="text-align: center;background-color: #1f1f1f;color: white;">(В разработке)</td>
- <td style="background-color: #1f1f1f;"></td>
+
   </tr>
  <tr>
  <td style="background-color: #1f1f1f;"></td>
   <td style="text-align: center;background-color: #1f1f1f;color: white;"><b>LEVEL:</b></td>
-   <td style="background-color: #1f1f1f;"></td>
+ 
   </tr>
       
  <tr>
  <td style="background-color: #1f1f1f;"></td>
   <td style="text-align: center;background-color: #1f1f1f;color: white;">HP:775 MP:9750 AP:770 BP:100</td>
- <td style="background-color: #1f1f1f;"></td>
+ 
  </tr>
   </div>
       <tr>
         <td style="background-color: #1f1f1f"></td>
         <td style="text-align: center;background-color: #1f1f1f;color: white;"><b>Душа:</b></td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+     
+</tr>
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="color: white;background-color: #1f1f1f;">Дата смерти:</td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+        
+</tr>
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="color: white;background-color: #1f1f1f;">Пол:</td>
