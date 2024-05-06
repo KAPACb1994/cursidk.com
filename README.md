@@ -14,8 +14,8 @@
 
 
   
-  <div style="margin: auto; width: 500px;">
-    <div style="border: 1px solid rgb(17, 0, 255); padding: 10px; background-color: #1f1f1f; box-shadow: 0px 0px 10px #42418f;">
+ 
+<div style="border: 1px solid rgb(17, 0, 255); padding: 10px; background-color: #1f1f1f; box-shadow: 0px 0px 10px #42418f;">
     <table>
   <caption style="text-align: center;color: white;font-size: 37px;">курсидия</caption>
     <thead>
