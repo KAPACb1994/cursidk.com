@@ -65,45 +65,45 @@
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="color: white;background-color: #1f1f1f;">Пол:</td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+       
+</tr>
       <tr>
         <td style="background-color: #1f1f1f"></td>
         <td style="color: white;background-color: #1f1f1f;">Принадлежность:</td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+    
+</tr>
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="color: white;background-color: #1f1f1f;">Дебют:</td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+       
+   </tr>
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="color: white;background-color: #1f1f1f;">Титулы:</td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+        
+   </tr>
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="color: white;background-color: #1f1f1f;">Роль:</td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+       
+   </tr>
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="color: white;background-color: #1f1f1f;">Отношения/Связи:</td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+        
+</tr>
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="color: white;background-color: #1f1f1f;">Силы и способности::</td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+       
+  </tr>
     </tbody>
     <tfoot>
       <tr>
         <td style="background-color: #1f1f1f;"></td>
         <td style="color: white;background-color: #1f1f1f;">Оружие:</td>
-        <td style="background-color: #1f1f1f;"></td>
-      </tr>
+       
+  </tr>
       </tfoot>
       </table>
       
