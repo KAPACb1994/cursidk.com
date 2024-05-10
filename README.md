@@ -1,6 +1,6 @@
 <head>   
     <title>Cursidk Lair</title>
-
+    <link rel="stylesheet" href="s3.css">
  <body background="i (19).png"></body>
     
 <html>
