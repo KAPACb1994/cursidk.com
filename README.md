@@ -11,6 +11,11 @@
   <h1>Wiki Cursidk Lair</h1>
 
 
+ <h1>Главная страница</h1>
+  <p>курсидия</p>
+  <a href="стр 1.html">детх(1)</a>
+  <a href="стр 2.html">Страница 2</a>
+  
   
  <div style="margin: auto; width: 500px;">
 <div style="border: 1px solid rgb(17, 0, 255); padding: 10px; background-color: #1f1f1f; box-shadow: 0px 0px 10px #42418f;">
